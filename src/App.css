@@ -15,7 +15,7 @@
   color: white;
 }
 
-userContainer {
+.userContainer {
   display: flex;
   align-items: flex-start;
   margin: 51px 54px 0px;
